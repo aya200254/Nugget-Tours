@@ -21,5 +21,4 @@
    - Write clean and readable code.
    - Use Laravel’s routing, controllers, and models effectively.
 
-7. *Testing (Optional):*
-   - Provide basic tests to ensure the application works as expected (e.g., test user registration and booking functionality).
+
